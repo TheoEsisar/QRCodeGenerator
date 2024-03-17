@@ -12,7 +12,7 @@ A simple GUI application that generates QR codes from user input.
 ## Installation
 
 1. Clone the repository:
-```git clone https://github.com/TheoEsisar/qr_code_generator.git```
+```git clone https://github.com/TheoEsisar/QRCodeGenerator.git```
 
 2. Install the required dependencies:
 ```pip install -r requirements.txt```
